@@ -3,8 +3,11 @@
 ### 🚀 Aspiring Software Development Engineer | Full Stack Developer | AI/ML Student
 
 🎓 B.Tech CSE (AI & ML) Student
+
 💻 Passionate about Web Development, Software Engineering & Problem Solving
+
 🌱 Currently learning JavaScript, Full Stack Development & DSA
+
 📍 India
 
 ---
