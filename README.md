@@ -28,14 +28,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nk-aditya\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nk-aditya\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/wxaditya
